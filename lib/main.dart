@@ -5,6 +5,7 @@ import 'package:foodly/views/entrypoint.dart';
 import 'package:get/get.dart';
 
 Widget defaultHome = MainScreen();
+
 void main() {
   runApp(const MyApp());
 }
